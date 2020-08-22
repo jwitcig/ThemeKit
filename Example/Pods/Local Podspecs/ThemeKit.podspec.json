@@ -1,0 +1,22 @@
+{
+  "name": "ThemeKit",
+  "version": "0.1.0",
+  "summary": "A short description of ThemeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jwitcig/ThemeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jwitcig": "jwitcig@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jwitcig/ThemeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ThemeKit/Classes/**/*"
+}
